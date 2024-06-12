@@ -30,7 +30,7 @@ while choice !=0:
 
         # Option 2: analysing built-in data
         else:
-            path = 'data_tree.csv'
+            path = 'code/data_tree.csv'
 
         # read data with error handing. Retype with wrong file path
         while True:
