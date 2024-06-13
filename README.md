@@ -66,6 +66,10 @@ Tree biomass will be estimated based on equations in previous studies, some of w
 
 Where: W- dry biomass, DBH - diameter at breast height, H - height, and a, b, c - model parameters.
 
+equation 3                |  equation 10
+:-------------------------:|:-------------------------:
+![](/img/equation_3.png)  |  ![](/img/equation_10.png)
+
 ## Accuracy 
 All models will be fit to data and the following goodness-of-fit measures will be provided for user’s assessment: coefficient of determination (R2), Mean Absolute Error (MAE), Mean Squared Error (MSE), and Root mean squared error (RMSE).
 
